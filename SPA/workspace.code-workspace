@@ -1,0 +1,9 @@
+{	
+	"webpackConfig": "apps/myapp/webpack.config.js",
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
